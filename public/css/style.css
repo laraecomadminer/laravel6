@@ -1,0 +1,41 @@
+
+html{
+	height:100%;
+}
+body{
+	position:relative;
+	min-height:100%;
+	padding-bottom:7rem;
+}
+	
+.margin-top-20{
+	margin-top:20px;
+}
+.feature-img{
+	max-height:200px;
+}
+.footer-bottom{
+	padding:20px;
+	margin:20px;
+	background:gray;
+	position:absolute;
+	right:0;
+	left:0;
+	bottom:0; 	
+}
+.pointer{
+	cursor:pointer;
+}
+.child-rows{
+	padding-left:20px;
+	border-left:1px solid #dfdfdf;
+	background:#FFF;
+}
+.child-rows a.list-group-item{
+	border-left:0px!important;
+}
+/*nav ber*/
+.mr-auto, .mx-auto{
+	    margin-top: 10px;
+    margin-bottom: -10px
+}
